@@ -1,0 +1,1700 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+/*This includes all the boxes, tables and generally all the styles of the pages.*/
+/*This box contain all the CSS for the table part of the website*/
+body{
+  background-color: peachpuff;
+}
+
+img {
+height: 220px;
+width: 220px;
+border: 1px solid black;
+}
+
+p{
+  border:1px solid black;
+  border-radius: 5px;
+  Padding: 5px;
+  Font-size: 23px;
+  background-color: white;
+  width: 600px;
+  height: 300px;
+  margin-bottom: 30px;
+}
+
+.header{
+  border: 1px solid black;
+border-radius: 5px; 
+padding: 5px;
+font-size: 20px;
+height: 20px;
+margin: 10px;
+width: 500px;
+background-color: white;
+}
+
+.header2{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 300px;
+  background-color: white;
+}
+
+.header3{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 525px;
+  background-color: white;
+}
+
+.header4{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 300px;
+  background-color: white;
+}
+
+.tip1{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 825px;
+  background-color: white;
+}
+
+.tip2{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 825px;
+  background-color: white;
+}
+
+.tip3{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 825px;
+  background-color: white;
+}
+
+.tip4{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 1150px;
+  background-color: white;
+}
+
+.logo{
+  height: 80px;
+width: 80px;
+border: 1px solid black;
+float: center;
+margin-top: 3px;
+}
+/*_________________________________________________________________________________________*/
+/*This contains all the CSS for the home page. Includes the links which send you to each page. Also includes the header fonts 
+and boxes for each line.*/
+h1{
+ border: 1px solid black;
+ color: black;
+ background-image: url("https://thumbs.dreamstime.com/b/wide-wheat-field-wheat-background-growing-wheat-wide-wheat-field-wheat-background-growing-wheat-216341814.jpg");
+ background-size: auto;
+ background-position: center;
+ border-radius: 5px;
+ padding: 70px;
+ font-size: 60px;
+ height: 85px;
+}
+
+h4{
+  border: 1px solid black;
+  color: black;
+  background-image: url("https://thumbs.dreamstime.com/b/wide-wheat-field-wheat-background-growing-wheat-wide-wheat-field-wheat-background-growing-wheat-216341814.jpg");
+  background-size: auto;
+  background-position: center;
+  border-radius: 5px;
+  padding: 50px;
+  font-size: 60px;
+  height: 50px;
+ }
+
+ h5{
+  border: 1px solid black;
+  color: black;
+  background-image: url("https://thumbs.dreamstime.com/b/wide-wheat-field-wheat-background-growing-wheat-wide-wheat-field-wheat-background-growing-wheat-216341814.jpg");
+  background-size: auto;
+  background-position: center;
+  border-radius: 5px;
+  padding: 50px;
+  font-size: 60px;
+  height: 50px;
+ }
+
+ h6{
+  border: 1px solid black;
+  color: black;
+  background-image: url("https://thumbs.dreamstime.com/b/wide-wheat-field-wheat-background-growing-wheat-wide-wheat-field-wheat-background-growing-wheat-216341814.jpg");
+  background-size: auto;
+  background-position: center;
+  border-radius: 5px;
+  padding: 50px;
+  font-size: 60px;
+  height: 50px;
+ }
+ 
+.ae{
+border: 1px solid black;
+border-radius: 5px;
+padding: 5px;
+font-size: 20px;
+height: 20px;
+margin: 10px;
+width: 125px;
+background-color: white;
+}
+/*These are the links for the groceries and sources*/
+.sourclink{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 125px;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+    animation-duration: 0.4s;
+  }
+
+  .sourclink:hover{
+    background-color: lightgrey;
+  } 
+
+  .grocerlink{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+    height: 20px;
+    margin: 10px;
+    width: 125px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    animation-duration: 0.4s;
+    }
+
+    .grocerlink:hover{
+      background-color: lightgrey;
+    } 
+
+.posty{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 225px;
+  background-color: white;
+  }
+.pe{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  width: 200px;
+  background-color: white;
+  }
+
+h8{
+  border: 1px solid black;
+ border-radius: 5px;
+ padding: 5px;
+ font-size: 20px;
+ height: 30px;
+ margin: 10px;
+ width: 175px;
+ background-color: white;
+ }
+
+ .p1{
+   border:1px solid black;
+   border-radius: 5px;
+   Padding: 5px;
+   Font-size: 23px;
+   background-color: white;
+   width: 600px;
+   height: 300px;
+   margin-bottom: 30px;
+ }
+
+ .par{
+  border:1px solid black;
+  border-radius: 5px;
+  Padding: 5px;
+  Font-size: 23px;
+  background-color: white;
+  width: 600px;
+  height: 300px;
+  margin-bottom: 30px;
+}
+
+ .sourc{
+   float: right;
+   margin: 10px;
+   width: 200px;
+   height: 200px;
+ }
+
+ .grocer{
+   float: right;
+   margin: 10px;
+   width: 200px;
+   height: 200px;
+ }
+
+ .sub{
+   width: 100px;
+   height: 30px;
+   border-radius: 4px;
+   margin-top: 10px;
+ }
+
+ .bio{
+   float: left;
+   margin: 10px;
+ }
+
+ .pye{
+   margin: 10px;
+   width: 200px;
+   height: 30px;
+   margin-top: 15px;
+ }
+
+ h3{
+   border: 1px solid black;
+border-radius: 5px;
+padding: 5px;
+font-size: 20px;
+height: 20px;
+margin: 10px;
+width: 200px;
+background-color: white;
+ }
+/*These are the links for the Dinner, lunch, and breakfast options. Includes also the image styles.*/
+.dinner{
+    border: 1px solid black;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    animation-duration: 0.4s;
+}
+
+.dinner:hover{
+  background-color: lightgrey;
+}
+
+.lunch{
+    border: 1px solid black;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    animation-duration: 0.4s;
+}
+
+.lunch:hover{
+  background-color: lightgrey;
+}
+
+.breakfast{
+    border: 1px solid black;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    animation-duration: 0.4s;
+}
+
+.breakfast:hover{
+  background-color: lightgrey;
+}
+/*____________________________________________________________________________________________________________________*/
+
+/*This box contains all the CSS for the grocery, sources, breakfast, lunch and dinner pages. Includes code for all of them.
+Also allows a return button which can send them back to the home page. Finaly, allows them to send the reader to different 
+websites.*/
+.return{
+  border: 1px solid black;
+    padding: 3px;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 10px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+#navbar a {
+    position: fixed; 
+    width: 100px; 
+    border-radius: 5px;
+    padding: 15px;
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: top;
+    text-decoration: none;
+    color: black;
+    transition: 1s; 
+    text-decoration: none;
+    color: black; 
+   
+  }
+
+  #navbar a:hover {
+    top: 10px; 
+  }
+   #faq{
+     top: 0px;
+    left: 200px;
+    background-color: burlywood;
+  }
+  #about {
+    top: 0px;
+    left: 500px;
+    background-color: burlywood;
+  }
+  #help {
+    top: 0px;
+    left: 800px;
+    background-color: burlywood;
+  }
+  #info {
+    top: 0px;
+    left: 1100px;
+    background-color: burlywood; 
+  }
+
+/*These are the breafast styles*/
+
+
+  .lg {
+  background-image: url("https://static.onecms.io/wp-content/uploads/sites/19/2008/10/23/MR_Reshoots_Evergreen_001-2000.jpg");
+  border: 3px solid black;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+margin-left: 25px;
+margin-right: 220px;
+margin-top: 50px;
+border-radius: 5px;
+}
+
+.ng {
+  background-image: url("https://hips.hearstapps.com/hmg-prod/images/delish-basic-crepes-horizontal-1545245797.jpg");
+  border: 3px solid black;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+margin-left: 220px;
+margin-right: 220px;
+margin-top: 50px;
+border-radius: 5px;
+}
+
+.cg {
+  background-image: url("https://www.jocooks.com/wp-content/uploads/2020/09/belgian-waffles-1-16.jpg");
+  border: 3px solid black;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+margin-left: 220px;
+margin-right: 25px;
+margin-top: 50px;
+border-radius: 5px;
+}
+
+.law-g {
+color: black;
+font-size: 20px;
+border: 2px solid black;
+width: 150px;
+display: inline-block;
+background-size: 150px 150px;
+margin-left: 25px;
+margin-right: 220px;
+margin-top: 25px;
+animation-duration: 0.4s;
+border-radius: 5px;
+background-color: white;
+}
+
+.law-g:hover{
+  background-color: lightgrey;
+}
+
+.neut-g {
+color: black;
+font-size: 20px;
+border: 2px solid black;
+width: 150px;
+display: inline-block;
+background-size: 150px 150px;
+margin-left: 220px;
+margin-right: 220px;
+margin-top: 25px;
+animation-duration: 0.4s;
+border-radius: 5px;
+background-color: white;
+}
+
+.neut-g:hover{
+  background-color: lightgrey;
+}
+
+.chaos-g {
+ color: black;
+ font-size: 20px;
+ border: 2px solid black;
+ width: 150px;
+ display: inline-block;
+ background-size: 150px 150px;
+ margin-left: 220px;
+ margin-right: 25px;
+margin-top: 25px;
+animation-duration: 0.4s;
+border-radius: 5px;
+background-color: white;
+}
+
+.chaos-g:hover{
+  background-color: lightgrey;
+}
+
+.ln {
+  background-image: url("https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200.jpg");
+  border: 3px solid black;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 25px;
+  margin-right: 220px;
+margin-top: 25px;
+border-radius: 5px;
+}
+
+.tn {
+  background-image: url("https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg");
+  border: 3px solid black;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 220px;
+  margin-right: 220px;
+margin-top: 25px;
+border-radius: 5px;
+}
+
+.cn {
+  background-image: url("https://sugargeekshow.com/wp-content/uploads/2019/10/chocolate-chip-muffins-featured.jpg");
+  border: 3px solid black;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 220px;
+  margin-right: 25px;
+margin-top: 25px;
+border-radius: 5px;
+}
+
+.law-n {
+  color: black;
+  font-size: 20px;
+  border: 2px solid black;
+  width: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 25px;
+  margin-right: 220px;
+margin-top: 25px;
+animation-duration: 0.4s;
+border-radius: 5px;
+background-color: white;
+  }
+
+  .law-n:hover{
+    background-color: lightgrey;
+  }
+  
+  .true-n {
+  color: black;
+  font-size: 20px;
+  border: 2px solid black;
+  width: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 220px;
+  margin-right: 220px;
+margin-top: 25px;
+animation-duration: 0.4s;
+border-radius: 5px;
+background-color: white;
+  }
+
+  .true-n:hover{
+    background-color: lightgrey;
+  }
+  
+  .choas-n {
+   color: black;
+   font-size: 20px;
+   border: 2px solid black;
+   width: 150px;
+   display: inline-block;
+   background-size: 150px 150px;
+   margin-left: 220px;
+   margin-right: 25px;
+ margin-top: 25px;
+ animation-duration: 0.4s;
+ border-radius: 5px;
+ background-color: white;
+  }
+
+  .choas-n:hover{
+    background-color: lightgrey;
+  }
+
+  .le {
+    background-image: url("https://www.simplyrecipes.com/thmb/Sy5LXtSfHcXfTkkS36kmSvubqj8=/3299x3299/smart/filters:no_upscale()/Simply-Recipes-Easy-Banana-Bread-LEAD-2-2-63dd39af009945d58f5bf4c2ae8d6070.jpg");
+    border: 3px solid black;
+    width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 25px;
+  margin-right: 220px;
+margin-top: 25px;
+border-radius: 5px;
+  }
+  
+  .ne {
+    background-image: url("https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2012/10/Multicoloured-macaroons.jpg");
+    border: 3px solid black;
+    width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 220px;
+  margin-right: 220px;
+margin-top: 25px;
+border-radius: 5px;
+  }
+  
+  .ce {
+    background-image: url("https://img.sndimg.com/food/image/upload/v1/img/recipes/18/63/63/J6v3b9vnQySAqUtTlY4w_Pink%20lady%20squares%20186363-4.jpg");
+    border: 3px solid black;
+    width: 150px;
+  height: 150px;
+  display: inline-block;
+  background-size: 150px 150px;
+  margin-left: 220px;
+  margin-right: 25px;
+margin-top: 25px;
+border-radius: 5px;
+  }
+
+  .law-e {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  animation-duration: 0.4s;
+  border-radius: 5px;
+  background-color: white;
+    }
+
+    .law-e:hover{
+      background-color: lightgrey;
+    }
+    
+    .neut-e {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  animation-duration: 0.4s;
+  border-radius: 5px;
+  background-color: white;
+    }
+
+    .neut-e:hover{
+      background-color: lightgrey;
+    }
+    
+    .choas-e {
+     color: black;
+     font-size: 20px;
+     border: 2px solid black;
+     width: 150px;
+     display: inline-block;
+     background-size: 150px 150px;
+     margin-left: 220px;
+     margin-right: 25px;
+   margin-top: 25px;
+     margin-bottom: 15px;
+     animation-duration: 0.4s;
+     border-radius: 5px;
+     background-color: white;
+    }
+
+    .choas-e:hover{
+      background-color: lightgrey;
+    }
+
+
+    /*These are the dinner styles.*/
+
+    .lg2 {
+      background-image: url("https://www.recipetineats.com/wp-content/uploads/2016/02/Beef-Hamburgers_7-2.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .ng2 {
+      background-image: url("https://www.thespruceeats.com/thmb/O8cBOSCu3233XKmts7kPiT-52F4=/1685x1264/smart/filters:no_upscale()/air-fryer-hot-dogs-4802499-07-b327e219937c429a81efaf61519724a5.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .cg2 {
+      background-image: url("https://simply-delicious-food.com/wp-content/uploads/2020/06/Sticky-BBQ-ribs-3.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 25px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .law-g2 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .law-g2:hover{
+      background-color: lightgrey;
+    }
+    
+    .neut-g2 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .neut-g2:hover{
+      background-color: lightgrey;
+    }
+    
+    .chaos-g2 {
+     color: black;
+     font-size: 20px;
+     border: 2px solid black;
+     width: 150px;
+     display: inline-block;
+     background-size: 150px 150px;
+     margin-left: 220px;
+     margin-right: 25px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .chaos-g2:hover{
+      background-color: lightgrey;
+    }
+    
+    .ln2 {
+      background-image: url("https://simplyhomecooked.com/wp-content/uploads/2020/06/baked-breaded-chicken-15-scaled.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .tn2 {
+      background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-bucatinipasta-028-ls-1607552701.jpg?crop=0.667xw:1.00xh;0.245xw,0&resize=640:*");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .cn2 {
+      background-image: url("https://www.foodiecrush.com/wp-content/uploads/2017/10/Instant-Pot-Macaroni-and-Cheese-foodiecrush.com-019.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .law-n2 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .law-n2:hover{
+        background-color: lightgrey;
+      }
+      
+      .true-n2 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .true-n2:hover{
+        background-color: lightgrey;
+      }
+      
+      .choas-n2 {
+       color: black;
+       font-size: 20px;
+       border: 2px solid black;
+       width: 150px;
+       display: inline-block;
+       background-size: 150px 150px;
+       margin-left: 220px;
+       margin-right: 25px;
+     margin-top: 25px;
+     animation-duration: 0.4s;
+     border-radius: 5px;
+     background-color: white;
+      }
+
+      .choas-n2:hover{
+        background-color: lightgrey;
+      }
+    
+      .le2 {
+        background-image: url("https://www.simplyrecipes.com/thmb/8caxM88NgxZjz-T2aeRW3xjhzBg=/2000x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-8f256746d649404baa36a44d271329bc.jpg");
+        border: 3px solid black;
+        width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+      }
+      
+      .ne2 {
+        background-image: url("https://www.thewholesomedish.com/wp-content/uploads/2019/06/The-Best-Classic-Tacos-550.jpg");
+        border: 3px solid black;
+        width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+      }
+      
+      .ce2 {
+        background-image: url("https://www.simplyrecipes.com/thmb/7KwExJ0ZbVEmlxBaMsgmrBTi9M4=/4667x3111/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Grilled-BBQ-Chicken-LEAD-10-03fd9892eaae4ce1a8a3f4c949657cfd.jpg");
+        border: 3px solid black;
+        width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+      }
+    
+      .law-e2 {
+        color: black;
+        font-size: 20px;
+        border: 2px solid black;
+        width: 150px;
+        display: inline-block;
+        background-size: 150px 150px;
+        margin-left: 25px;
+        margin-right: 220px;
+      margin-top: 40px;
+      margin-bottom: 15px;
+      animation-duration: 0.4s;
+      border-radius: 5px;
+      background-color: white;
+        }
+
+        .law-e2:hover{
+          background-color: lightgrey;
+        }
+        
+        .neut-e2 {
+        color: black;
+        font-size: 20px;
+        border: 2px solid black;
+        width: 150px;
+        display: inline-block;
+        background-size: 150px 150px;
+        margin-left: 220px;
+        margin-right: 220px;
+      margin-top: 25px;
+      margin-bottom: 15px;
+      animation-duration: 0.4s;
+      border-radius: 5px;
+      background-color: white;
+        }
+
+        .neut-e2:hover{
+          background-color: lightgrey;
+        }
+        
+        .choas-e2 {
+         color: black;
+         font-size: 20px;
+         border: 2px solid black;
+         width: 150px;
+         display: inline-block;
+         background-size: 150px 150px;
+         margin-left: 220px;
+         margin-right: 25px;
+       margin-top: 25px;
+         margin-bottom: 15px;
+         animation-duration: 0.4s;
+         border-radius: 5px;
+         background-color: white;
+        }
+
+        .choas-e2:hover{
+          background-color: lightgrey;
+        }
+
+           /*These are the dinner styles*/
+
+    .lg3 {
+      background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190322-ham-sandwich-horizontal-1553721016.png");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .ng3 {
+      background-image: url("https://assets.bonappetit.com/photos/57acf62a53e63daf11a4dbee/5:7/w_1244,h_1742,c_limit/best-ever-grilled-cheese.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .cg3 {
+      background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/20190503-delish-blt-ehg-337-1593548719.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 25px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .law-g3 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .law-g3:hover{
+      background-color: lightgrey;
+    }
+    
+    .neut-g3 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .neut-g3:hover{
+      background-color: lightgrey;
+    }
+    
+    .chaos-g3 {
+     color: black;
+     font-size: 20px;
+     border: 2px solid black;
+     width: 150px;
+     display: inline-block;
+     background-size: 150px 150px;
+     margin-left: 220px;
+     margin-right: 25px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .chaos-g3:hover{
+      background-color: lightgrey;
+    }
+    
+    .ln3 {
+      background-image: url("https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/52/64/99/0SjpEWURRzKZt1avUq9h_omlet.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .tn3 {
+      background-image: url("https://www.acouplecooks.com/wp-content/uploads/2019/05/Chopped-Salad-001_1.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .cn3 {
+      background-image: url("https://www.kitchensanctuary.com/wp-content/uploads/2021/03/Egg-fried-rice-square-FS-40.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .law-n3 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .law-n3:hover{
+        background-color: lightgrey;
+      }
+      
+      .true-n3 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .true-n3:hover{
+        background-color: lightgrey;
+      }
+      
+      .choas-n3 {
+       color: black;
+       font-size: 20px;
+       border: 2px solid black;
+       width: 150px;
+       display: inline-block;
+       background-size: 150px 150px;
+       margin-left: 220px;
+       margin-right: 25px;
+     margin-top: 25px;
+     animation-duration: 0.4s;
+     border-radius: 5px;
+     background-color: white;
+      }
+
+      .choas-n3:hover{
+        background-color: lightgrey;
+      }
+    
+      .le3 {
+        background-image: url("https://www.manilaspoon.com/wp-content/uploads/2012/08/Pansit2.1-500x375.png");
+        border: 3px solid black;
+        width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+      }
+      
+      .ne3 {
+        background-image: url("https://static.onecms.io/wp-content/uploads/sites/44/2021/07/21/steamed-vegetable-dumplings-recipe.jpg");
+        border: 3px solid black;
+        width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+      }
+      
+      .ce3 {
+        background-image: url("https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/29/1/FNM_100111-Poutine-002_s4x3.jpg.rend.hgtvcom.616.462.suffix/1383239551554.jpeg");
+        border: 3px solid black;
+        width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+      }
+    
+      .law-e3 {
+        color: black;
+        font-size: 20px;
+        border: 2px solid black;
+        width: 150px;
+        display: inline-block;
+        background-size: 150px 150px;
+        margin-left: 25px;
+        margin-right: 220px;
+      margin-top: 40px;
+      margin-bottom: 15px;
+      animation-duration: 0.4s;
+      border-radius: 5px;
+      background-color: white;
+        }
+
+        .law-e3:hover{
+          background-color: lightgrey;
+        }
+        
+        .neut-e3 {
+        color: black;
+        font-size: 20px;
+        border: 2px solid black;
+        width: 150px;
+        display: inline-block;
+        background-size: 150px 150px;
+        margin-left: 220px;
+        margin-right: 220px;
+      margin-top: 25px;
+      margin-bottom: 15px;
+      animation-duration: 0.4s;
+      border-radius: 5px;
+      background-color: white;
+        }
+
+        .neut-e3:hover{
+          background-color: lightgrey;
+        }
+        
+        .choas-e3 {
+         color: black;
+         font-size: 20px;
+         border: 2px solid black;
+         width: 150px;
+         display: inline-block;
+         background-size: 150px 150px;
+         margin-left: 220px;
+         margin-right: 25px;
+       margin-top: 25px;
+         margin-bottom: 15px;
+         animation-duration: 0.4s;
+         border-radius: 5px;
+         background-color: white;
+        }
+
+        .choas-e3:hover{
+          background-color: lightgrey;
+        }
+
+        /*This box contains the sources and groceries*/
+      /*These are the sources styles*/
+    .s1 {
+      background-image: url("https://cdn.shopify.com/s/files/1/0329/8007/4627/t/3/assets/h1_logo1.png?v=7837273740125269591");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .s2 {
+      background-image: url("https://udisglutenfree.com/sites/g/files/qyyrlu706/files/images/logos/Udis_logo_0.png");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .s3 {
+      background-image: url("https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d825aa26de3150009a4616c%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D416%26cropY1%3D0%26cropY2%3D416");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 25px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .s4 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .s4:hover{
+      background-color: lightgrey;
+    }
+    
+    .s5 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .s5:hover{
+      background-color: lightgrey;
+    }
+    
+    .s6 {
+     color: black;
+     font-size: 20px;
+     border: 2px solid black;
+     width: 150px;
+     display: inline-block;
+     background-size: 150px 150px;
+     margin-left: 220px;
+     margin-right: 25px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .s6:hover{
+      background-color: lightgrey;
+    }
+    
+    .s7 {
+      background-image: url("https://m.media-amazon.com/images/S/abs-image-upload-na/5/AmazonStores/ATVPDKIKX0DER/08eb1326af2ece299b58feb3eaa8a64f.w1199.h838.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .s8 {
+      background-image: url("https://thumbs.dreamstime.com/b/gluten-free-logo-icon-symbol-natural-goodness-graphic-oval-typographic-fully-editable-vector-illustration-web-print-food-97057761.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .s9 {
+      background-image: url("https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/qaoeskuow78i3pveyhgp");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .s10 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .s10:hover{
+        background-color: lightgrey;
+      }
+      
+      .s11 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .s11:hover{
+        background-color: lightgrey;
+      }
+      
+      .s12 {
+       color: black;
+       font-size: 20px;
+       border: 2px solid black;
+       width: 150px;
+       display: inline-block;
+       background-size: 150px 150px;
+       margin-left: 220px;
+       margin-right: 25px;
+     margin-top: 25px;
+     animation-duration: 0.4s;
+     border-radius: 5px;
+     background-color: white;
+      }
+
+      .s12:hover{
+        background-color: lightgrey;
+      }
+
+     /*These are the grocery styles*/
+
+    .s1-2 {
+      background-image: url("https://s30386.pcdn.co/wp-content/uploads/2020/02/p1bm5844cb6oacnd1std183s12gt6.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .s2-2 {
+      background-image: url("https://static.toiimg.com/thumb/80465901.cms?width=680&height=512&imgsize=938538");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .s3-2 {
+      background-image: url("https://images.ctfassets.net/cnu0m8re1exe/1iuyqdP3OS7DaVh4NmRhuv/410677b95b7a623cbde5c7df0207a70f/shutterstock_1690014832.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 25px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+    
+    .s4-2 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 25px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .s4-2:hover{
+      background-color: lightgrey;
+    }
+    
+    .s5-2 {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 150px;
+    display: inline-block;
+    background-size: 150px 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .s5-2:hover{
+      background-color: lightgrey;
+    }
+    
+    .s6-2 {
+     color: black;
+     font-size: 20px;
+     border: 2px solid black;
+     width: 150px;
+     display: inline-block;
+     background-size: 150px 150px;
+     margin-left: 220px;
+     margin-right: 25px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+    }
+
+    .s6-2:hover{
+      background-color: lightgrey;
+    }
+    
+    .s7-2 {
+      background-image: url("https://www.wwf.org.uk/sites/default/files/styles/social_share_image/public/2017-06/RESIZED_WW222126.jpg?itok=5CeygMUu");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .s8-2 {
+      background-image: url("https://images-na.ssl-images-amazon.com/images/I/51YlsNK1lZL.jpg");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .s9-2 {
+      background-image: url("https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/gluten-free-diet-1296x728.jpg?w=1155&h=1528");
+      border: 3px solid black;
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+    }
+    
+    .s10-2 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 25px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .s10-2:hover{
+        background-color: lightgrey;
+      }
+      
+      .s11-2 {
+      color: black;
+      font-size: 20px;
+      border: 2px solid black;
+      width: 150px;
+      display: inline-block;
+      background-size: 150px 150px;
+      margin-left: 220px;
+      margin-right: 220px;
+    margin-top: 25px;
+    animation-duration: 0.4s;
+    border-radius: 5px;
+    background-color: white;
+      }
+
+      .s11-2:hover{
+        background-color: lightgrey;
+      }
+      
+      .s12-2 {
+       color: black;
+       font-size: 20px;
+       border: 2px solid black;
+       width: 150px;
+       display: inline-block;
+       background-size: 150px 150px;
+       margin-left: 220px;
+       margin-right: 25px;
+     margin-top: 25px;
+     animation-duration: 0.4s;
+     border-radius: 5px;
+     background-color: white;
+      }
+
+      .s12-2:hover{
+        background-color: lightgrey;
+      }
+      /**/
